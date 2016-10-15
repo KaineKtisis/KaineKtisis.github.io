@@ -23,7 +23,7 @@ description: blog about Christian faith, politics, and technology
 
 # List of links in the navigation bar
 navbar-links:
-  faith: "faith"
+  faith: "index"
   politics: "politics"
   tech: "tech"
   news: "news"
