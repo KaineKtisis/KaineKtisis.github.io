@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about me
-subtitle: a brief introduction
+subtitle: a brief intro
 ---
 ## καινὴ κτίσις
 > */kainē ktisis/*  
@@ -10,7 +10,7 @@ subtitle: a brief introduction
 
 > Therefore if anyone is in Christ, he is a **new creature**;  
 > the old things passed away; behold, new things have come.  
-> -- *II Corithians 5:17*
+> -- II Corithians 5:17
 
 My name is Wesley Lamkin. I have **zero** credentials.
 
@@ -20,4 +20,4 @@ My name is Wesley Lamkin. I have **zero** credentials.
   - opinions and conclusions based on sound logic.
   - a propensity to share my thoughts more often than necessary.
 
-What do you want to know about me?  I'm not sure how much value there is in me spelling out my biased opinion of myself.  I don't particulary enjoy that anyway.  You don't know someone unless you get to know them---and that is by interaction.  In the meantime, I'll share [my worldview](https://kainektisis.github.io "blog") with you.
+I don't consider myself much of a writer, but this [blog](https://kainektisis.github.io) helps me organize my thoughts and further my personal study of the world around me.  Thanks for listening!
