@@ -18,6 +18,6 @@ My name is Wesley Lamkin. I have **zero** credentials.
   - a strong faith in Jesus Christ that has transformed my entire existence for the better.
   - a desire to learn as much as I can while I'm on this journey called life.
   - opinions and conclusions based on sound logic.
-  - a propensity to share my thoughts more often than necessary
+  - a propensity to share my thoughts more often than necessary.
 
 What do you want to know about me?  I'm not sure how much value there is in me spelling out my biased opinion of myself.  I don't particulary enjoy that anyway.  You don't know someone unless you get to know them---and that is by interaction.  In the meantime, I'll share [my worldview](https://kainektisis.github.io "blog") with you.
