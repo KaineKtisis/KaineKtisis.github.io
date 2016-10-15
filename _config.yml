@@ -17,15 +17,15 @@ baseurl: ""
 title: καινὴ κτίσις
 
 # Short description of your site
-description: blog about faith, politics, and technology
+description: blog about Christian faith, politics, and technology
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  faith: "faith"
-  politics: "politics"
-  tech: "tech"
+ # faith: "faith"
+ # politics: "politics"
+ # tech: "tech"
   about me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
