@@ -4,12 +4,12 @@ title: about me
 subtitle: a brief introduction
 ---
 ## καινὴ κτίσις
-> */kainē ktisis/*</br>
-> *(kahee-neh' ktis'-is)*</br>
+> */kainē ktisis/* </br>
+> *(kahee-neh' ktis'-is)* </br>
 > new creature
 
-> Therefore if anyone is in Christ, he is a **new creature**;</br>
-> the old things passed away; behold, new things have come.</br>
+> Therefore if anyone is in Christ, he is a **new creature**; </br>
+> the old things passed away; behold, new things have come. </br>
 > -- *II Corithians 5:17*
 
 My name is Wesley Lamkin. I have **zero** credentials.
