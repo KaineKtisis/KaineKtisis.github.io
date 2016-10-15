@@ -26,8 +26,8 @@ navbar-links:
   faith: "faith"
   politics: "politics"
   tech: "tech"
-  news: 
-  about me: "aboutme"
+  news: "news"
+  bio: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
