@@ -4,8 +4,8 @@ title: about me
 subtitle: a brief introduction
 ---
 ## καινὴ κτίσις
-> */kainē ktisis/* </br>
-> *(kahee-neh' ktis'-is)* </br>
+> */kainē ktisis/*  
+> *(kahee-neh' ktis'-is)*  
 > new creature
 
 > Therefore if anyone is in Christ, he is a **new creature**; </br>
