@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Excuse the Mess
+title: excuse the mess
 subtitle: work in progress
 ---
 
