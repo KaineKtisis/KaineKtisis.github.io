@@ -10,7 +10,7 @@ subtitle: a brief intro
 > 
 > "Therefore if anyone is in Christ, he is a **new creature**;  
 > the old things passed away; behold, new things have come."  
-> ---II Corithians 5:17
+> --- II Corithians 5:17
 
 My name is Wesley Lamkin. I have **zero** credentials.
 
