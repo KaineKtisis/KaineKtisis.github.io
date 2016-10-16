@@ -1,7 +1,7 @@
 ---
 layout: post
 title: the song of fools
-published: false
+published: true
 date: '2016-10-16'
 ---
 > It is better to listen to the rebuke of a wise man  
