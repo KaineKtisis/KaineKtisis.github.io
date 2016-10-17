@@ -44,7 +44,7 @@ avatar: "/img/avatar.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: wL
+  name: Wesley Lamkin
   email: "kainektisis.github.io@gmail.com"
 #  facebook: yourname  # eg. daattali
   github: KaineKtisis    # eg. daattali
