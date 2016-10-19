@@ -27,7 +27,7 @@ All of the scriptures cited below are from the *New American Standard Bible*, un
 
 + Paul makes an important point here.  As Christians, God has revealed the truth of the gospel to us.  Since we are stewards of the gospel, we must be found faithful and trustworthy to have this privilege and responsibility.
 
-+ He continues to say that although he feels blameless, that does not necessarily acquit him before God. (see 
++ He continues to say that although he feels blameless, that does not necessarily acquit him before God. 
 
 + We as humans judge by outward appearances and evidence from our senses, such as what we see, but God is able to know the deepest secrets of a person's heart.  We are foolish when we think that we know the motivations of others. (see *Psalm 44:16*, *Proverbs 16:2*, *I Samuel 16:7*, *John 2:24-25*)
 
