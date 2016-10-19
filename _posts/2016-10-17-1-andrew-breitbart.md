@@ -2,8 +2,9 @@
 layout: post
 title: Andrew Breitbart v. PC College Student
 subtitle: transcript excerpt
+tags: Politics, Philosophy
 ---
-(transcribed from [video](https://youtu.be/2l0hU162Rz0))
+(transcribed from YouTube [video](https://youtu.be/2l0hU162Rz0))
 
 > *Student:*  I just don't understand why you're saying you are for diversity, when you are making so many racial undertones about diversity.  And how racist you're being about racism.
 > 
