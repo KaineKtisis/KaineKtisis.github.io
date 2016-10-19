@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tuesday Talk #3 | Sharing What I've Received
-subtitle: Bible Study Notes
+title: Tuesday Talk 3 | Notes
+subtitle: Sharing What I've Received
 ---
 ## Judging Others
 
@@ -75,4 +75,4 @@ All of the scriptures cited below are from the *New American Standard Bible*, un
 
 + We do not have the authority to pass self-righteous judgement on another, however, we do have the authority and the command to declare the Word of God, and that includes what is and what is not acceptable in the sight of the Lord.  This should be done out of love and compassion so that they may be freed from the bondage of sin, just as we are freed.
 
-+ **REMEMBER** You are no better than anyone else; God has just made you better off.
++ **REMEMBER:** You are no better than anyone else; God has just made you better off.
