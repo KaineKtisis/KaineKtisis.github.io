@@ -15,7 +15,7 @@ All of the scriptures cited below are from the *New American Standard Bible*, un
 
 > "Do not speak against one another, brethren.  He who speaks against a brother or judges his brother, speaks against the law and judges the law; but if you judge the law, you are not a doer of the law but a judge of it.  There is only one Lawgiver and Judge, the One who is able to save and to destroy; but who are you who judge your neighbor?"
 
-+ In a court of law, a judge has the authority to hear and decide cases and is charged with the legal duty to administer justice, with respect to the law.  Would a judge be considered a good judge, if he himself, broke the law?  Certainly not!  Especially since he is one who should know the law best, and should equally apply the law to all in a fair and just way.
++ In a court of law, a judge has the authority to hear and decide cases and is charged with the legal duty to administer justice, with respect to the law.  Would a judge be considered a good judge, if he himself broke the law?  Certainly not!  Especially since he is one who should know the law best, and should equally apply the law to all in a fair and just way.
 
 + James says here that there is only one Lawgiver and Judge, who has the absolute power of life and death.  With respect to the Law of the Spirit, we do not have that authority.
 
